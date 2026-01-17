@@ -3,5 +3,5 @@ MSV: 23810310309<br>
 Lớp: D18CNPM4<br>
 
 DEMO:<br>
-![Demo](./images/demo1.jpg)
-![Demo](./images/demo2.jpg)
+![Demo](./demo1.jpg)
+![Demo](./demo2.jpg)
